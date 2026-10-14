@@ -1,0 +1,981 @@
+{
+  "serie": [
+    {
+      "data": "2026-07-01",
+      "fase": "referencia",
+      "denuncias": 27
+    },
+    {
+      "data": "2026-07-02",
+      "fase": "referencia",
+      "denuncias": 19
+    },
+    {
+      "data": "2026-07-03",
+      "fase": "referencia",
+      "denuncias": 28
+    },
+    {
+      "data": "2026-07-04",
+      "fase": "referencia",
+      "denuncias": 21
+    },
+    {
+      "data": "2026-07-05",
+      "fase": "referencia",
+      "denuncias": 30
+    },
+    {
+      "data": "2026-07-06",
+      "fase": "referencia",
+      "denuncias": 16
+    },
+    {
+      "data": "2026-07-07",
+      "fase": "referencia",
+      "denuncias": 35
+    },
+    {
+      "data": "2026-07-08",
+      "fase": "referencia",
+      "denuncias": 18
+    },
+    {
+      "data": "2026-07-09",
+      "fase": "referencia",
+      "denuncias": 24
+    },
+    {
+      "data": "2026-07-10",
+      "fase": "referencia",
+      "denuncias": 12
+    },
+    {
+      "data": "2026-07-11",
+      "fase": "referencia",
+      "denuncias": 10
+    },
+    {
+      "data": "2026-07-12",
+      "fase": "referencia",
+      "denuncias": 16
+    },
+    {
+      "data": "2026-07-13",
+      "fase": "referencia",
+      "denuncias": 13
+    },
+    {
+      "data": "2026-07-14",
+      "fase": "referencia",
+      "denuncias": 19
+    },
+    {
+      "data": "2026-07-15",
+      "fase": "referencia",
+      "denuncias": 29
+    },
+    {
+      "data": "2026-07-16",
+      "fase": "referencia",
+      "denuncias": 27
+    },
+    {
+      "data": "2026-07-17",
+      "fase": "referencia",
+      "denuncias": 21
+    },
+    {
+      "data": "2026-07-18",
+      "fase": "referencia",
+      "denuncias": 32
+    },
+    {
+      "data": "2026-07-19",
+      "fase": "referencia",
+      "denuncias": 20
+    },
+    {
+      "data": "2026-07-20",
+      "fase": "referencia",
+      "denuncias": 33
+    },
+    {
+      "data": "2026-07-21",
+      "fase": "referencia",
+      "denuncias": 32
+    },
+    {
+      "data": "2026-07-22",
+      "fase": "referencia",
+      "denuncias": 24
+    },
+    {
+      "data": "2026-07-23",
+      "fase": "referencia",
+      "denuncias": 26
+    },
+    {
+      "data": "2026-07-24",
+      "fase": "referencia",
+      "denuncias": 36
+    },
+    {
+      "data": "2026-07-25",
+      "fase": "referencia",
+      "denuncias": 18
+    },
+    {
+      "data": "2026-07-26",
+      "fase": "referencia",
+      "denuncias": 10
+    },
+    {
+      "data": "2026-07-27",
+      "fase": "referencia",
+      "denuncias": 16
+    },
+    {
+      "data": "2026-07-28",
+      "fase": "referencia",
+      "denuncias": 19
+    },
+    {
+      "data": "2026-07-29",
+      "fase": "referencia",
+      "denuncias": 11
+    },
+    {
+      "data": "2026-07-30",
+      "fase": "referencia",
+      "denuncias": 12
+    },
+    {
+      "data": "2026-07-31",
+      "fase": "referencia",
+      "denuncias": 12
+    },
+    {
+      "data": "2026-08-01",
+      "fase": "referencia",
+      "denuncias": 11
+    },
+    {
+      "data": "2026-08-02",
+      "fase": "referencia",
+      "denuncias": 25
+    },
+    {
+      "data": "2026-08-03",
+      "fase": "referencia",
+      "denuncias": 12
+    },
+    {
+      "data": "2026-08-04",
+      "fase": "referencia",
+      "denuncias": 10
+    },
+    {
+      "data": "2026-08-05",
+      "fase": "referencia",
+      "denuncias": 14
+    },
+    {
+      "data": "2026-08-06",
+      "fase": "referencia",
+      "denuncias": 14
+    },
+    {
+      "data": "2026-08-07",
+      "fase": "referencia",
+      "denuncias": 11
+    },
+    {
+      "data": "2026-08-08",
+      "fase": "referencia",
+      "denuncias": 4
+    },
+    {
+      "data": "2026-08-09",
+      "fase": "referencia",
+      "denuncias": 6
+    },
+    {
+      "data": "2026-08-10",
+      "fase": "referencia",
+      "denuncias": 9
+    },
+    {
+      "data": "2026-08-11",
+      "fase": "referencia",
+      "denuncias": 8
+    },
+    {
+      "data": "2026-08-12",
+      "fase": "referencia",
+      "denuncias": 9
+    },
+    {
+      "data": "2026-08-13",
+      "fase": "referencia",
+      "denuncias": 19
+    },
+    {
+      "data": "2026-08-14",
+      "fase": "referencia",
+      "denuncias": 17
+    },
+    {
+      "data": "2026-08-15",
+      "fase": "referencia",
+      "denuncias": 11
+    },
+    {
+      "data": "2026-08-16",
+      "fase": "referencia",
+      "denuncias": 6
+    },
+    {
+      "data": "2026-08-17",
+      "fase": "referencia",
+      "denuncias": 10
+    },
+    {
+      "data": "2026-08-18",
+      "fase": "referencia",
+      "denuncias": 8
+    },
+    {
+      "data": "2026-08-19",
+      "fase": "referencia",
+      "denuncias": 12
+    },
+    {
+      "data": "2026-08-20",
+      "fase": "referencia",
+      "denuncias": 13
+    },
+    {
+      "data": "2026-08-21",
+      "fase": "referencia",
+      "denuncias": 10
+    },
+    {
+      "data": "2026-08-22",
+      "fase": "referencia",
+      "denuncias": 9
+    },
+    {
+      "data": "2026-08-23",
+      "fase": "referencia",
+      "denuncias": 4
+    },
+    {
+      "data": "2026-08-24",
+      "fase": "referencia",
+      "denuncias": 21
+    },
+    {
+      "data": "2026-08-25",
+      "fase": "referencia",
+      "denuncias": 11
+    },
+    {
+      "data": "2026-08-26",
+      "fase": "referencia",
+      "denuncias": 6
+    },
+    {
+      "data": "2026-08-27",
+      "fase": "referencia",
+      "denuncias": 10
+    },
+    {
+      "data": "2026-08-28",
+      "fase": "referencia",
+      "denuncias": 16
+    },
+    {
+      "data": "2026-08-29",
+      "fase": "referencia",
+      "denuncias": 17
+    },
+    {
+      "data": "2026-08-30",
+      "fase": "referencia",
+      "denuncias": 7
+    },
+    {
+      "data": "2026-08-31",
+      "fase": "referencia",
+      "denuncias": 16
+    },
+    {
+      "data": "2026-09-01",
+      "fase": "referencia",
+      "denuncias": 13
+    },
+    {
+      "data": "2026-09-02",
+      "fase": "referencia",
+      "denuncias": 9
+    },
+    {
+      "data": "2026-09-03",
+      "fase": "referencia",
+      "denuncias": 16
+    },
+    {
+      "data": "2026-09-04",
+      "fase": "referencia",
+      "denuncias": 14
+    },
+    {
+      "data": "2026-09-05",
+      "fase": "referencia",
+      "denuncias": 11
+    },
+    {
+      "data": "2026-09-06",
+      "fase": "referencia",
+      "denuncias": 14
+    },
+    {
+      "data": "2026-09-07",
+      "fase": "referencia",
+      "denuncias": 15
+    },
+    {
+      "data": "2026-09-08",
+      "fase": "referencia",
+      "denuncias": 10
+    },
+    {
+      "data": "2026-09-09",
+      "fase": "referencia",
+      "denuncias": 13
+    },
+    {
+      "data": "2026-09-10",
+      "fase": "referencia",
+      "denuncias": 13
+    },
+    {
+      "data": "2026-09-11",
+      "fase": "referencia",
+      "denuncias": 13
+    },
+    {
+      "data": "2026-09-12",
+      "fase": "referencia",
+      "denuncias": 15
+    },
+    {
+      "data": "2026-09-13",
+      "fase": "referencia",
+      "denuncias": 9
+    },
+    {
+      "data": "2026-09-14",
+      "fase": "referencia",
+      "denuncias": 11
+    },
+    {
+      "data": "2026-09-15",
+      "fase": "referencia",
+      "denuncias": 9
+    },
+    {
+      "data": "2026-09-16",
+      "fase": "referencia",
+      "denuncias": 8
+    },
+    {
+      "data": "2026-09-17",
+      "fase": "anomalia",
+      "denuncias": 3
+    },
+    {
+      "data": "2026-09-18",
+      "fase": "anomalia",
+      "denuncias": 0
+    },
+    {
+      "data": "2026-09-19",
+      "fase": "anomalia",
+      "denuncias": 3
+    },
+    {
+      "data": "2026-09-20",
+      "fase": "anomalia",
+      "denuncias": 5
+    },
+    {
+      "data": "2026-09-21",
+      "fase": "anomalia",
+      "denuncias": 3
+    },
+    {
+      "data": "2026-09-22",
+      "fase": "anomalia",
+      "denuncias": 6
+    },
+    {
+      "data": "2026-09-23",
+      "fase": "anomalia",
+      "denuncias": 4
+    },
+    {
+      "data": "2026-09-24",
+      "fase": "anomalia",
+      "denuncias": 7
+    },
+    {
+      "data": "2026-09-25",
+      "fase": "depois",
+      "denuncias": 29
+    },
+    {
+      "data": "2026-09-26",
+      "fase": "depois",
+      "denuncias": 82
+    },
+    {
+      "data": "2026-09-27",
+      "fase": "depois",
+      "denuncias": 51
+    },
+    {
+      "data": "2026-09-28",
+      "fase": "depois",
+      "denuncias": 77
+    },
+    {
+      "data": "2026-09-29",
+      "fase": "depois",
+      "denuncias": 98
+    },
+    {
+      "data": "2026-09-30",
+      "fase": "depois",
+      "denuncias": 76
+    },
+    {
+      "data": "2026-10-01",
+      "fase": "depois",
+      "denuncias": 74
+    },
+    {
+      "data": "2026-10-02",
+      "fase": "depois",
+      "denuncias": 33
+    },
+    {
+      "data": "2026-10-03",
+      "fase": "depois",
+      "denuncias": 33
+    },
+    {
+      "data": "2026-10-04",
+      "fase": "depois",
+      "denuncias": 27
+    },
+    {
+      "data": "2026-10-05",
+      "fase": "depois",
+      "denuncias": 11
+    },
+    {
+      "data": "2026-10-06",
+      "fase": "depois",
+      "denuncias": 37
+    },
+    {
+      "data": "2026-10-07",
+      "fase": "depois",
+      "denuncias": 22
+    },
+    {
+      "data": "2026-10-08",
+      "fase": "depois",
+      "denuncias": 32
+    }
+  ],
+  "dominio": [
+    {
+      "dominio": "fora_do_bet_br",
+      "referencia": 519,
+      "anomalia": 10,
+      "depois": 319
+    },
+    {
+      "dominio": "sem_url",
+      "referencia": 680,
+      "anomalia": 21,
+      "depois": 359
+    },
+    {
+      "dominio": "bet_br",
+      "referencia": 16,
+      "anomalia": 0,
+      "depois": 4
+    }
+  ],
+  "publicadaEm": "2026-10-14",
+  "refMedianaDia": 13.0,
+  "fluxo": [
+    {
+      "mes": "2025-01",
+      "aportado": 12146337302.66,
+      "retirado": 9425326292.44,
+      "cpfs": 7311428
+    },
+    {
+      "mes": "2025-02",
+      "aportado": 14202242736.16,
+      "retirado": 11167175609.69,
+      "cpfs": 7958453
+    },
+    {
+      "mes": "2025-03",
+      "aportado": 17347759892.84,
+      "retirado": 13722372053.57,
+      "cpfs": 9154555
+    },
+    {
+      "mes": "2025-04",
+      "aportado": 19397403263.52,
+      "retirado": 14443802702.13,
+      "cpfs": 10413115
+    },
+    {
+      "mes": "2025-05",
+      "aportado": 20311538542.78,
+      "retirado": 15531450724.53,
+      "cpfs": 10718449
+    },
+    {
+      "mes": "2025-06",
+      "aportado": 19907208746.75,
+      "retirado": 15897635399.27,
+      "cpfs": 10912821
+    },
+    {
+      "mes": "2025-07",
+      "aportado": 20381222887.35,
+      "retirado": 16720402116.28,
+      "cpfs": 10957403
+    },
+    {
+      "mes": "2025-08",
+      "aportado": 21728873357.27,
+      "retirado": 18263320857.08,
+      "cpfs": 10940617
+    },
+    {
+      "mes": "2025-09",
+      "aportado": 21679853440.71,
+      "retirado": 19474855386.94,
+      "cpfs": 10846710
+    },
+    {
+      "mes": "2025-10",
+      "aportado": 22995409610.71,
+      "retirado": 19955673031.04,
+      "cpfs": 11284557
+    },
+    {
+      "mes": "2025-11",
+      "aportado": 22290805866.42,
+      "retirado": 18477653798.39,
+      "cpfs": 11251579
+    },
+    {
+      "mes": "2025-12",
+      "aportado": 22436553816.87,
+      "retirado": 19533530938.03,
+      "cpfs": 10540078
+    },
+    {
+      "mes": "2026-01",
+      "aportado": 19762355948.36,
+      "retirado": 16363702103.11,
+      "cpfs": 10273625
+    },
+    {
+      "mes": "2026-02",
+      "aportado": 15629606366.15,
+      "retirado": 14374060412.36,
+      "cpfs": 9110068
+    },
+    {
+      "mes": "2026-03",
+      "aportado": 14298413893.43,
+      "retirado": 12596577773.3,
+      "cpfs": 8205301
+    },
+    {
+      "mes": "2026-04",
+      "aportado": 13574018913.75,
+      "retirado": 11686670481.98,
+      "cpfs": 7463380
+    },
+    {
+      "mes": "2026-05",
+      "aportado": 13720098432.31,
+      "retirado": 11445908847.6,
+      "cpfs": 7634564
+    },
+    {
+      "mes": "2026-06",
+      "aportado": 13138127463.38,
+      "retirado": 10933111257.74,
+      "cpfs": 8557755
+    }
+  ],
+  "queda": [
+    {
+      "mes": "2026-01",
+      "aportadoBi": 19.76
+    },
+    {
+      "mes": "2026-02",
+      "aportadoBi": 15.63
+    },
+    {
+      "mes": "2026-03",
+      "aportadoBi": 14.3
+    },
+    {
+      "mes": "2026-04",
+      "aportadoBi": 13.57
+    },
+    {
+      "mes": "2026-05",
+      "aportadoBi": 13.72
+    },
+    {
+      "mes": "2026-06",
+      "aportadoBi": 13.14
+    }
+  ],
+  "rotulosMes": {
+    "pt-BR": {
+      "2026-01": "jan/2026",
+      "2026-02": "fev/2026",
+      "2026-03": "mar/2026",
+      "2026-04": "abr/2026",
+      "2026-05": "mai/2026",
+      "2026-06": "jun/2026"
+    },
+    "en-US": {
+      "2026-01": "Jan 2026",
+      "2026-02": "Feb 2026",
+      "2026-03": "Mar 2026",
+      "2026-04": "Apr 2026",
+      "2026-05": "May 2026",
+      "2026-06": "Jun 2026"
+    },
+    "es": {
+      "2026-01": "ene/2026",
+      "2026-02": "feb/2026",
+      "2026-03": "mar/2026",
+      "2026-04": "abr/2026",
+      "2026-05": "may/2026",
+      "2026-06": "jun/2026"
+    }
+  },
+  "composicao": [
+    {
+      "k": "fora",
+      "ref": 97.0,
+      "dep": 98.8
+    },
+    {
+      "k": "bet_br",
+      "ref": 3.0,
+      "dep": 1.2
+    }
+  ],
+  "textos": {
+    "pt-BR": {
+      "mpDias": "14",
+      "mpVigencia": "25 de setembro de 2026",
+      "mpTotalDepois": "682",
+      "mpMediaDepois": "48,7",
+      "mpRefMediana": "13,0",
+      "mpRefDias": "78",
+      "mpRazao": "3,7",
+      "mpPico": "98",
+      "mpDiaPico": "29 de setembro de 2026",
+      "mpPctForaDepois": "98,8%",
+      "mpPctForaRef": "97,0%",
+      "mpPropDepois": "80",
+      "mpPropRef": "32",
+      "mpSemUrlDepois": "359",
+      "mpComUrlDepois": "323",
+      "mpNotaData": "29 de setembro de 2026",
+      "mpNota009Data": "22 de janeiro de 2026",
+      "mpNota023Data": "6 de março de 2026",
+      "mpRazaoIngenua": "7",
+      "mpAnomaliaIntervalo": "17 a 24 de setembro de 2026",
+      "mpAnomaliaMediana": "3,5",
+      "mpDiaSemDenuncia": "18 de setembro de 2026",
+      "mpDiasAtePico": "4",
+      "mpEstudosProibir": "0",
+      "mpPedidoData": "20 de setembro de 2026",
+      "mpProtocolo1": "18800.146056/2026-05",
+      "mpProtocolo2": "18800.145988/2026-22",
+      "mpNota023Reuniao": "5 de março de 2026",
+      "mpSerieIni": "01/07/2026",
+      "mpSerieFim": "08/10/2026",
+      "mpPublicacao": "14 de outubro de 2026",
+      "mpLaiMeses": "18",
+      "mpLaiIni": "janeiro de 2025",
+      "mpLaiFim": "junho de 2026",
+      "mpAportes": "R$ 324,95 bi",
+      "mpRetiradas": "R$ 270,01 bi",
+      "mpLiquido": "R$ 54,93 bi",
+      "mpGgr": "R$ 62,89 bi",
+      "mpGgrMeses": "18",
+      "mpTributos": "R$ 27,97 bi",
+      "mpTributosMeses": "15",
+      "mpL14790": "R$ 7,48 bi",
+      "mpCpfsMedia": "9,64 milhões",
+      "mpCpfsPico": "11,28 milhões",
+      "mpCpfsPicoMes": "outubro de 2025",
+      "mpQuedaIni": "janeiro de 2026",
+      "mpQuedaFim": "junho de 2026",
+      "mpQuedaApIni": "R$ 19,76 bi",
+      "mpQuedaApFim": "R$ 13,14 bi",
+      "mpQuedaApPct": "34%",
+      "mpQuedaCpIni": "10,27 milhões",
+      "mpQuedaCpFim": "8,56 milhões",
+      "mpQuedaCpPct": "17%",
+      "mpUrls": "51.295",
+      "mpUrlsMeses": "19",
+      "mpBloqVivo": "93,1%",
+      "mpBloqClaro": "0,2%",
+      "mpBloqDns": "99,8%",
+      "mpBloqMedicao": "18 a 25 de setembro de 2026",
+      "mpArrIni": "janeiro de 2026",
+      "mpArrFim": "junho de 2026",
+      "mpRepartido": "R$ 2,36 bilhões",
+      "mpSaudePct": "1,18%",
+      "mpSaude": "R$ 27,8 milhões",
+      "mpTurismo": "R$ 565,3 milhões",
+      "mpTurismoX": "20,3×",
+      "mpDru": "R$ 514,1 milhões",
+      "mpSaudeCpf": "R$ 1,83",
+      "mpTurismoCpf": "R$ 37,23",
+      "mpSaudeAx": "R$ 36,34",
+      "mpAxSaude": "400.992",
+      "mpSaudePct2025": "1,19%",
+      "mpSaudePctRegime": "1,19%",
+      "mpSaudeRegime": "R$ 76,6 milhões",
+      "mpRepartidoRegime": "R$ 6,47 bi"
+    },
+    "en-US": {
+      "mpDias": "14",
+      "mpVigencia": "September 25, 2026",
+      "mpTotalDepois": "682",
+      "mpMediaDepois": "48.7",
+      "mpRefMediana": "13.0",
+      "mpRefDias": "78",
+      "mpRazao": "3.7",
+      "mpPico": "98",
+      "mpDiaPico": "September 29, 2026",
+      "mpPctForaDepois": "98.8%",
+      "mpPctForaRef": "97.0%",
+      "mpPropDepois": "80",
+      "mpPropRef": "32",
+      "mpSemUrlDepois": "359",
+      "mpComUrlDepois": "323",
+      "mpNotaData": "September 29, 2026",
+      "mpNota009Data": "January 22, 2026",
+      "mpNota023Data": "March 6, 2026",
+      "mpRazaoIngenua": "7",
+      "mpAnomaliaIntervalo": "September 17–24, 2026",
+      "mpAnomaliaMediana": "3.5",
+      "mpDiaSemDenuncia": "September 18, 2026",
+      "mpDiasAtePico": "4",
+      "mpEstudosProibir": "0",
+      "mpPedidoData": "September 20, 2026",
+      "mpProtocolo1": "18800.146056/2026-05",
+      "mpProtocolo2": "18800.145988/2026-22",
+      "mpNota023Reuniao": "March 5, 2026",
+      "mpSerieIni": "July 1, 2026",
+      "mpSerieFim": "October 8, 2026",
+      "mpPublicacao": "October 14, 2026",
+      "mpLaiMeses": "18",
+      "mpLaiIni": "January 2025",
+      "mpLaiFim": "June 2026",
+      "mpAportes": "R$ 324.95 billion",
+      "mpRetiradas": "R$ 270.01 billion",
+      "mpLiquido": "R$ 54.93 billion",
+      "mpGgr": "R$ 62.89 billion",
+      "mpGgrMeses": "18",
+      "mpTributos": "R$ 27.97 billion",
+      "mpTributosMeses": "15",
+      "mpL14790": "R$ 7.48 billion",
+      "mpCpfsMedia": "9.64 million",
+      "mpCpfsPico": "11.28 million",
+      "mpCpfsPicoMes": "October 2025",
+      "mpQuedaIni": "January 2026",
+      "mpQuedaFim": "June 2026",
+      "mpQuedaApIni": "R$ 19.76 billion",
+      "mpQuedaApFim": "R$ 13.14 billion",
+      "mpQuedaApPct": "34%",
+      "mpQuedaCpIni": "10.27 million",
+      "mpQuedaCpFim": "8.56 million",
+      "mpQuedaCpPct": "17%",
+      "mpUrls": "51,295",
+      "mpUrlsMeses": "19",
+      "mpBloqVivo": "93.1%",
+      "mpBloqClaro": "0.2%",
+      "mpBloqDns": "99.8%",
+      "mpBloqMedicao": "September 18–25, 2026",
+      "mpArrIni": "January 2026",
+      "mpArrFim": "June 2026",
+      "mpRepartido": "R$ 2.36 billion",
+      "mpSaudePct": "1.18%",
+      "mpSaude": "R$ 27.8 million",
+      "mpTurismo": "R$ 565.3 million",
+      "mpTurismoX": "20.3×",
+      "mpDru": "R$ 514.1 million",
+      "mpSaudeCpf": "R$ 1.83",
+      "mpTurismoCpf": "R$ 37.23",
+      "mpSaudeAx": "R$ 36.34",
+      "mpAxSaude": "400,992",
+      "mpSaudePct2025": "1.19%",
+      "mpSaudePctRegime": "1.19%",
+      "mpSaudeRegime": "R$ 76.6 million",
+      "mpRepartidoRegime": "R$ 6.47 billion"
+    },
+    "es": {
+      "mpDias": "14",
+      "mpVigencia": "25 de septiembre de 2026",
+      "mpTotalDepois": "682",
+      "mpMediaDepois": "48,7",
+      "mpRefMediana": "13,0",
+      "mpRefDias": "78",
+      "mpRazao": "3,7",
+      "mpPico": "98",
+      "mpDiaPico": "29 de septiembre de 2026",
+      "mpPctForaDepois": "98,8%",
+      "mpPctForaRef": "97,0%",
+      "mpPropDepois": "80",
+      "mpPropRef": "32",
+      "mpSemUrlDepois": "359",
+      "mpComUrlDepois": "323",
+      "mpNotaData": "29 de septiembre de 2026",
+      "mpNota009Data": "22 de enero de 2026",
+      "mpNota023Data": "6 de marzo de 2026",
+      "mpRazaoIngenua": "7",
+      "mpAnomaliaIntervalo": "17 al 24 de septiembre de 2026",
+      "mpAnomaliaMediana": "3,5",
+      "mpDiaSemDenuncia": "18 de septiembre de 2026",
+      "mpDiasAtePico": "4",
+      "mpEstudosProibir": "0",
+      "mpPedidoData": "20 de septiembre de 2026",
+      "mpProtocolo1": "18800.146056/2026-05",
+      "mpProtocolo2": "18800.145988/2026-22",
+      "mpNota023Reuniao": "5 de marzo de 2026",
+      "mpSerieIni": "01/07/2026",
+      "mpSerieFim": "08/10/2026",
+      "mpPublicacao": "14 de octubre de 2026",
+      "mpLaiMeses": "18",
+      "mpLaiIni": "enero de 2025",
+      "mpLaiFim": "junio de 2026",
+      "mpAportes": "R$ 324,95 mil millones",
+      "mpRetiradas": "R$ 270,01 mil millones",
+      "mpLiquido": "R$ 54,93 mil millones",
+      "mpGgr": "R$ 62,89 mil millones",
+      "mpGgrMeses": "18",
+      "mpTributos": "R$ 27,97 mil millones",
+      "mpTributosMeses": "15",
+      "mpL14790": "R$ 7,48 mil millones",
+      "mpCpfsMedia": "9,64 millones",
+      "mpCpfsPico": "11,28 millones",
+      "mpCpfsPicoMes": "octubre de 2025",
+      "mpQuedaIni": "enero de 2026",
+      "mpQuedaFim": "junio de 2026",
+      "mpQuedaApIni": "R$ 19,76 mil millones",
+      "mpQuedaApFim": "R$ 13,14 mil millones",
+      "mpQuedaApPct": "34%",
+      "mpQuedaCpIni": "10,27 millones",
+      "mpQuedaCpFim": "8,56 millones",
+      "mpQuedaCpPct": "17%",
+      "mpUrls": "51.295",
+      "mpUrlsMeses": "19",
+      "mpBloqVivo": "93,1%",
+      "mpBloqClaro": "0,2%",
+      "mpBloqDns": "99,8%",
+      "mpBloqMedicao": "18 al 25 de septiembre de 2026",
+      "mpArrIni": "enero de 2026",
+      "mpArrFim": "junio de 2026",
+      "mpRepartido": "R$ 2,36 mil millones",
+      "mpSaudePct": "1,18%",
+      "mpSaude": "R$ 27,8 millones",
+      "mpTurismo": "R$ 565,3 millones",
+      "mpTurismoX": "20,3×",
+      "mpDru": "R$ 514,1 millones",
+      "mpSaudeCpf": "R$ 1,83",
+      "mpTurismoCpf": "R$ 37,23",
+      "mpSaudeAx": "R$ 36,34",
+      "mpAxSaude": "400.992",
+      "mpSaudePct2025": "1,19%",
+      "mpSaudePctRegime": "1,19%",
+      "mpSaudeRegime": "R$ 76,6 millones",
+      "mpRepartidoRegime": "R$ 6,47 mil millones"
+    }
+  },
+  "_gerado": {
+    "por": "scripts/relatorio-mp1394/dados.py",
+    "congelado_em": ".lovable/research/mp1394-2026-10/datasets",
+    "mp_vigencia": "2026-09-25",
+    "dias_pos_mp": 14,
+    "referencia_dias": 78,
+    "declarado": {
+      "nota_data": "2026-09-29",
+      "nota_protocolos": [
+        "18800.146056/2026-05",
+        "18800.145988/2026-22"
+      ],
+      "pedido_data": "2026-09-20",
+      "pedido_urls": {
+        "18800.146056/2026-05": "https://buscalai.cgu.gov.br/busca/11683587",
+        "18800.145988/2026-22": "https://buscalai.cgu.gov.br/busca/11682759"
+      },
+      "nota_023_reuniao": "2026-03-05",
+      "publicacao": "2026-10-14",
+      "notas_citadas": [
+        "009/2026",
+        "023/2026"
+      ],
+      "nota_009_data": "2026-01-22",
+      "nota_023_data": "2026-03-06",
+      "estudos_sobre_proibir": 0
+    },
+    "razao_ingenua": 7.1,
+    "anomalia": {
+      "de": "2026-09-17",
+      "a": "2026-09-24",
+      "mediana_dia": 3.5,
+      "dias_sem_denuncia": [
+        "2026-09-18"
+      ]
+    },
+    "ressalvas": [
+      "A razão compara a média diária pós-MP (48.7/dia) com a MEDIANA diária do período estável de 78 dias (13.0/dia). Os 14 dias imediatamente anteriores à MP NÃO servem de baseline: de 2026-09-17 a 2026-09-24 a mediana caiu a 3.5/dia, e em 2026-09-18 não houve nenhuma denúncia. Comparar com a janela simétrica daria 7.1x em vez de 3.7x.",
+      "359 das 682 denúncias pós-MP não trazem URL: o formulário não exige o campo. As porcentagens de domínio usam como denominador só quem tem URL.",
+      "problem_type é multivalorado; a soma das categorias é maior que o total de denúncias.",
+      "A escala do mercado vem do acervo de LAI, congelado por congela-lai.py: 18 meses FECHADOS (2025-01 a 2026-06). Mês em consolidação fica fora dos totais — dado parcial puxa o total para baixo sem erro nenhum. `cpfs_unicos` é MENSAL e não se soma: são os CPFs únicos naquele mês, e por isso o relatório publica média e pico, nunca um total de pessoas.",
+      "A arrecadação (15 grupos de tributo) é tributo federal LIGADO ao setor, não a outorga: a própria resposta da Receita diz que nenhuma linha é rotulada como a contribuição sobre GGR. A janela dela não é a mesma do fluxo.",
+      "Os números de repartição vêm do relatório de arrecadação (edição 01), janela PRÓPRIA de jan/2026-jun/2026 e base própria: o percentual é do que foi REPARTIDO naquele semestre, não dos tributos federais de 18 meses desta página. As duas grandezas não se dividem uma pela outra.",
+      "Os números de bloqueio por operadora vêm do relatório de bloqueio (edição 02), medidos na véspera da MP. NÃO foram remedidos aqui: dois números para o mesmo fato fariam os dois relatórios do site divergirem.",
+      "Os fatos sobre a Receita Federal vêm de documento (Nota SIC CETAD/COEST 186 e 187), não de contagem nossa. 'Desconhece outro órgão' é o alcance do CETAD, não negativa de existência no governo.",
+      "O texto literal dos dois pedidos e das duas respostas está em docs/custodia/2026-10-05-pedidos-lai-receita-cetad.json, com sha256. As duas respostas são identicas, conferido. Dois itens dos pedidos ficaram sem resposta: se a Receita recebeu encomenda de estudo dessa natureza, e se existe documento interno atribuindo essa responsabilidade."
+    ]
+  }
+}
